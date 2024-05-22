@@ -11,7 +11,7 @@ public class GithubActionsArchitectureApplication {
 
 	@GetMapping("/welcome")
 	public String welcome(){
-		return "Welcome to GitHub action";
+		return "Welcome to GitHub ";
 	}
 
 
